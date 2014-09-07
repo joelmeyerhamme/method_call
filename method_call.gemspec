@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'method_call'
-  s.version     = '0.0.1'
+  s.version     = '1.0.0'
   s.date        = '2014-09-07'
   s.summary     = "Pass arguments to symbols. Shorthand for `map` operations."
   s.description = ""
