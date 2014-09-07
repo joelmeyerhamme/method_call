@@ -31,7 +31,7 @@ end
 class Symbol
 
   def [](*args, &block)
-    Call.new(self, *args, &block)
+    MethodCall.new(self, *args, &block)
   end
 
 end
