@@ -19,7 +19,7 @@ private
   attr_accessor :method, :args, :block
 
   def block_inspect
-    block ? "{...}" : nil
+    block ? '{...}' : nil
   end
 
   def args_inspect
