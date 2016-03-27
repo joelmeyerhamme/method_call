@@ -6,7 +6,6 @@ describe MethodCall do
   end
 
   it 'should be universal' do
-    pending 'strange edge case'
-    expect([[1, 3],[3, 4]].map(&:reduce[:+])).to eq([4, 7])
+    expect([[1, 3], [3, 4]].map(&:reduce[:+])).to eq([4, 7])
   end
 end

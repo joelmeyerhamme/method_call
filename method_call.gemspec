@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'method_call'
-  s.version     = '1.0.1'
+  s.version     = '1.1.0'
   s.date        = '2015-01-17'
   s.summary     = "Pass arguments to symbols. Shorthand for `map` operations."
   s.description = ""
@@ -9,5 +9,5 @@ Gem::Specification.new do |s|
   s.files       = ["lib/method_call.rb"]
   s.homepage    =
     'https://github.com/joelmeyerhamme/method_call'
-  s.license       = 'MIT'
+  s.license       = 'cc-by'
 end
