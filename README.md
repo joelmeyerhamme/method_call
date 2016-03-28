@@ -9,7 +9,7 @@
 [![tag](https://img.shields.io/github/tag/joelmeyerhamme/method_call.svg?style=flat)](https://github.com/joelmeyerhamme/method_call/tags)
 [![release](https://img.shields.io/github/release/joelmeyerhamme/method_call.svg?style=flat)](https://github.com/joelmeyerhamme/method_call/releases)
 [![gem](https://img.shields.io/gem/v/method_call.svg?style=flat)](https://rubygems.org/gems/method_call)
-[![license](https://img.shields.io/:license-mit-blue.svg?style=flat)](http://mit-license.org)
+[![license](https://img.shields.io/:license-cc-by-4.0-blue.svg?style=flat)](http://creativecommons.org/licenses/by/4.0/)
 [![badges](https://img.shields.io/:badges-11-blue.svg?style=flat)](https://github.com/badges/badgerbadgerbadger)
 
 
